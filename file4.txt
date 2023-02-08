@@ -1,0 +1,3 @@
+I am from local machine repository
+
+Pushing the code to Developer 2
